@@ -9,3 +9,6 @@ https://github.com/dsyer/spring-security-angular/tree/master/single[the single s
 
 It also uses http://en.wikipedia.org/wiki/JWT[JWT] to encode the tokens, so instead of using the "/user" endpoint, 
 the resource server can pull enough information out of the token itself to do a simple authentication.
+
+This code copy from
+http://stackoverflow.com/questions/36899386/null-client-in-oauth2-multi-factor-authentication?lq=1[null client in OAuth2 Multi-Factor Authentication]
